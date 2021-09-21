@@ -21,9 +21,9 @@ namespace BOOPM3_02_07
             Console.WriteLine(total2); // 10
         }
     }
-
-    //Exercises
-    //1.    Create a class type and declare a method taking params of that type. Create a single dimension array of the 
-    //      type and calling the method both with comma separated list and as an array
-    //2.    Make the array multidimensional and try. What happens?
 }
+//Exercises
+//1.    Declare a method that takes params parameter of your own class type and prints out the type.
+//2.    Create a single dimension array of the type and call the method both with comma separated list
+//      and as an array
+

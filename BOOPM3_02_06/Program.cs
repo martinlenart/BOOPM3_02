@@ -38,9 +38,9 @@ namespace BOOPM3_02_06
 
         }
     }
-
-    //Exercises
-    //1.    Discuss this in the group so you truly understand what happens and why.
-    //2.    Play around with PassingValByValRef and PassingValByValRef using your own struct and classes as parameters.
-    //      Modify the passed object in the method to test if original objet is changed. Explain why
 }
+//Exercises
+//1.    Discuss this in the group so you truly understand what happens and why.
+//2.    Play around with PassingValByValRef and PassingValByValRef using your own struct and classes as parameters.
+//      Modify the passed object in the method to test if original objet is changed. Explain why
+

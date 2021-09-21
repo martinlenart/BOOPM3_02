@@ -18,7 +18,6 @@ namespace BOOPM3_02_09
             Console.WriteLine(dude3.Length); // 2
         }
     }
-
-    //Exercises:
-    //1.    Implement above using Tuples instead of anonymous types
 }
+//Exercises:
+//1.    Implement above using Tuples instead of anonymous types

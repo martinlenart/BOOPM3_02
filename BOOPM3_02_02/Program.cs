@@ -45,7 +45,7 @@ namespace BOOPM3_02_02
 			}
 		}
 	}
-	//Excercises:
-	//1.	Modify the code so in case of odd nr of words, the "folding word" is not repeated in the index.
-	//		So, in above example s1[1] should only be "default" not "default default"
 }
+//Excercises:
+//1.	Modify the code so in case of odd nr of words, the "folding word" is not repeated in the index.
+//		So, in above example s1[1] should only be "default" not "default default"

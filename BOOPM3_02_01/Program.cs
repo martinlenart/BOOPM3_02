@@ -56,8 +56,7 @@ namespace BOOPM3_02_01
 			Console.WriteLine($"{nameof(height3)}: {height3}"); // 4
 		}
 	}
-
-	//Excercises:
-	//1.	Make the WineClass and WineStruct from BOOPM3_01_10 deconstructable
-	//2.    Modify RectangleStruct and RectangleClass to be immutable and deconstructable
 }
+//Excercises:
+//1.	Make the WineClass and WineStruct from BOOPM3_01_10 deconstructable
+//2.    Modify RectangleStruct and RectangleClass to be immutable and deconstructable

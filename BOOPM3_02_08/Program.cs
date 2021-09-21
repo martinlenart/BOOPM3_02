@@ -17,9 +17,9 @@ namespace BOOPM3_02_08
             Bar(out _, a: 2, d: 6);
         }
     }
+ }
+//Exercises
+//1.    Declare a method using the parameter modifiers in, out, ref and params and default values. Test changing 
+//      the order of the parameters and see what the complier says.
+//2.    Call the method using named arguments, and change the order. What happens?
 
-    //Exercises
-    //1.    Declare a method using the parameter modifiers in, out, ref and params and default values. Test changing 
-    //      the order of the parameters and see what the complier says.
-    //2.    Call the method using named arguments, and change the order. What happens?
-}

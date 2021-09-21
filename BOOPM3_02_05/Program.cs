@@ -32,8 +32,9 @@ namespace BOOPM3_02_05
 			Console.WriteLine(r1.Height);
 		}
 	}
-	//Excercises:
-	//1.    Separate the two implementations of RectangleClass into two separate files (same namespace), compile and run
-	//2.	Implement a method Diagonal in one of the partial implementation wher the == and != are overridden.
-	//		Print out the Diagonal
 }
+//Excercises:
+//1.    Separate the two implementations of RectangleClass into two separate files (same namespace), compile and run
+//2.	Implement a method Diagonal in one of the partial implementation where the == and != are overridden.
+//		Print out the Diagonal
+

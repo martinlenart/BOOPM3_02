@@ -29,7 +29,7 @@ namespace BOOPM3_02_03
             Console.WriteLine(r1.Height);
         }
     }
-    //Excercises:
-    //1.    Create a RectangleStruct with same functionallity as RectangleClass
-    //2.    Explain why you in RectangleStruct can use Equals() method when implementing == and != overrides but not in RectangleClass.
 }
+//Excercises:
+//1.    Create a RectangleStruct with same functionallity as RectangleClass
+
