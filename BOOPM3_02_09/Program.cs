@@ -9,6 +9,8 @@ namespace BOOPM3_02_09
             int Age = 23;
 
             var dude1 = new { Name = "Bob", Age = 23 };
+            var dude1t = ("Bob", 23);
+
             var dude2 = new { Name = "Bob", Age, Age.ToString().Length };
             var dude3 = new { Name = "Bob", Age = Age, Length = Age.ToString().Length };
 
